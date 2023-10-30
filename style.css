@@ -42,7 +42,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* height: 712px; Geralmente não precisa colocar altura, ele acompanha o tamanho do conteúdo. */
   margin: 56px auto 0px; /* margin: 56px(top) auto(right e left) 0px(bottom) */
   padding: 0 24px;
